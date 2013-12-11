@@ -5,7 +5,7 @@
  */
 
 fl.outputPanel.clear();
-fl.trace( "== Torques-Set100.jsfl ==" );
+fl.trace( "== TORQUES-Set100.jsfl ==" );
 
 var selectionArray = fl.getDocumentDOM().selection;
 var numSelection   = selectionArray.length;
