@@ -25,6 +25,7 @@ This is a collection JSFL Scripts created at Torques Inc.
 --------
 
 - **TORQUES-CheckSelection.jsfl**
+- **TORQUES-CheckAllLib.jsfl**
 - **TORQUES-Set100.jsfl**
 - **TORQUES-SetAllLibImagesToLossless.jsfl**
 - **TORQUES-UpdateImages.jsfl**
